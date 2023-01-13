@@ -2,8 +2,6 @@
 
 <a name="readme-top">Hello Microverse</a>
 
-
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents

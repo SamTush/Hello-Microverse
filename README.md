@@ -118,8 +118,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[style the project]**
 - [ ] **[Make the project documentation look professional]**
 
@@ -154,8 +152,6 @@ I would like to thank Microverse for this wonderful journey.
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[What does this project do?]**
 
